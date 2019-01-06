@@ -1,4 +1,4 @@
 # api-omdb
-consuming movie api
+Consuming movie api
 
 Download and run
